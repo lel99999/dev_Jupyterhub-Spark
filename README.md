@@ -12,3 +12,4 @@ Jupyterhub &amp; Spark2 (HDP 2.6) Integration Notes
     ```
     $sudo /opt/jupyterhub/bin/python3 -m spylon-kernel install
     ```
+    ![https://github.com/lel99999/dev_Jupyterhub-Spark/blob/main/spylon-kernel_kernelspec-01.PNG](https://github.com/lel99999/dev_Jupyterhub-Spark/blob/main/spylon-kernel_kernelspec-01.PNG) <br/>
