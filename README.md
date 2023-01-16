@@ -14,3 +14,7 @@ Jupyterhub &amp; Spark2 (HDP 2.6) Integration Notes
     ```
     ![https://github.com/lel99999/dev_Jupyterhub-Spark/blob/main/spylon-kernel_kernelspec-01.PNG](https://github.com/lel99999/dev_Jupyterhub-Spark/blob/main/spylon-kernel_kernelspec-01.PNG) <br/>
     ![https://github.com/lel99999/dev_Jupyterhub-Spark/blob/main/spylon-kernel_kernelspec-02.PNG](https://github.com/lel99999/dev_Jupyterhub-Spark/blob/main/spylon-kernel_kernelspec-02.PNG) <br/>
+
+#### Kerberos Related Information
+- Yarn Kerberos Configuration
+  [https://spark.apache.org/docs/2.4.3/running-on-yarn.html#yarn-specific-kerberos-configuration](https://spark.apache.org/docs/2.4.3/running-on-yarn.html#yarn-specific-kerberos-configuration) <br/>
